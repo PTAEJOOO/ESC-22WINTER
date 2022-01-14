@@ -20,7 +20,7 @@
 Goodfellow, I., Bengio, Y., and Courville, A. (2016). Deep Learning. MIT Press.
 
 ## 세션 영상 유튜브 링크
-[ESC 2022-WINTER] 220106 Week1 - Overview - https://www.youtube.com/watch?v=MamN0WQxq9U
+[ESC 2022-WINTER] 220106 Week1 - Overview - https://www.youtube.com/watch?v=MamN0WQxq9U  \
 [ESC 2022-WINTER] 220113 Week2 - Deep learning 기본 원리 - https://www.youtube.com/watch?v=gAGVnML-eNc
 
 ## 학술부 세션 영상 유튜브 링크
