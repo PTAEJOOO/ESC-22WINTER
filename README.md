@@ -23,6 +23,6 @@ Goodfellow, I., Bengio, Y., and Courville, A. (2016). Deep Learning. MIT Press.
 220106 Week1 - Overview - https://www.youtube.com/watch?v=MamN0WQxq9U  \
 220113 Week2 - Deep learning 기본 원리 - https://www.youtube.com/watch?v=gAGVnML-eNc \
 220120 Week3 - Deep learning Problem Solving Technique- https://www.youtube.com/watch?v=4kSJeAsc0TY \
-220127 Week4 - CNN - https://studio.youtube.com/video/rtcU3CFq600/edit
+220127 Week4 - CNN - https://www.youtube.com/watch?v=rtcU3CFq600
 
 ## 학술부 세션 영상 유튜브 링크
