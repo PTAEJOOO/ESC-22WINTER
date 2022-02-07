@@ -25,4 +25,3 @@ Goodfellow, I., Bengio, Y., and Courville, A. (2016). Deep Learning. MIT Press.
 220120 Week3 - Deep learning Problem Solving Technique- https://www.youtube.com/watch?v=4kSJeAsc0TY \
 220127 Week4 - CNN - https://www.youtube.com/watch?v=rtcU3CFq600
 
-## 학술부 세션 영상 유튜브 링크
